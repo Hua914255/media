@@ -2,6 +2,7 @@ import os
 import re
 import asyncio
 from typing import AsyncGenerator, Dict, List, Tuple
+from dotenv import load_dotenv
 
 import httpx
 
@@ -10,10 +11,11 @@ from app.services.storage import get_story_turns
 
 
 # ====== Config ======
-DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-51a5d4b499924058a41423e7634468ec")  # ✅ 不要写死在代码里
-DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")  # 或 deepseek-reasoner
+load_dotenv()  # 自动读取 .env
 
+DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
+DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
 
 # ====== Mock ======
 def _mock_turns(user_text: str, rounds: int) -> List[Dict]:

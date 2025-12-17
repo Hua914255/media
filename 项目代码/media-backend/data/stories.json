@@ -2046,5 +2046,255 @@
       "story_id": "52342863",
       "turn": 44
     }
+  ],
+  "36e7a345": [
+    {
+      "author": "human",
+      "text": "111",
+      "flow_score": 0.0375,
+      "entropy_score": 0.02,
+      "story_id": "36e7a345",
+      "turn": 1
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第1句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.48,
+      "story_id": "36e7a345",
+      "turn": 2
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第2句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 3
+    },
+    {
+      "author": "human",
+      "text": "你好",
+      "flow_score": 0.025,
+      "entropy_score": 0.04,
+      "story_id": "36e7a345",
+      "turn": 4
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）你好 -> AI 续写第1句",
+      "flow_score": 0.45,
+      "entropy_score": 0.52,
+      "story_id": "36e7a345",
+      "turn": 5
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）你好 -> AI 续写第2句",
+      "flow_score": 0.45,
+      "entropy_score": 0.52,
+      "story_id": "36e7a345",
+      "turn": 6
+    },
+    {
+      "author": "human",
+      "text": "讲故事",
+      "flow_score": 0.0375,
+      "entropy_score": 0.06,
+      "story_id": "36e7a345",
+      "turn": 7
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）讲故事 -> AI 续写第1句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.54,
+      "story_id": "36e7a345",
+      "turn": 8
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）讲故事 -> AI 续写第2句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.54,
+      "story_id": "36e7a345",
+      "turn": 9
+    },
+    {
+      "author": "human",
+      "text": "111",
+      "flow_score": 0.0375,
+      "entropy_score": 0.02,
+      "story_id": "36e7a345",
+      "turn": 10
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第1句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.48,
+      "story_id": "36e7a345",
+      "turn": 11
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第2句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 12
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第3句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 13
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第4句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 14
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第5句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 15
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第6句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 16
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第7句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 17
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第8句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 18
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第9句",
+      "flow_score": 0.4625,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 19
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 -> AI 续写第10句",
+      "flow_score": 0.475,
+      "entropy_score": 0.5,
+      "story_id": "36e7a345",
+      "turn": 20
+    },
+    {
+      "author": "human",
+      "text": "111",
+      "flow_score": 0.0375,
+      "entropy_score": 0.02,
+      "story_id": "36e7a345",
+      "turn": 21
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->他盯着屏幕上闪烁的数字，指尖在键盘上悬停片刻。",
+      "flow_score": 0.6375,
+      "entropy_score": 0.8,
+      "story_id": "36e7a345",
+      "turn": 22
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->窗外传来雨滴敲打玻璃的声音，给寂静的房间添了几分凉意。",
+      "flow_score": 0.6875,
+      "entropy_score": 0.88,
+      "story_id": "36e7a345",
+      "turn": 23
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->他想起三年前那个同样下着雨的夜晚，也是在这间屋子里做出的决定。",
+      "flow_score": 0.7375,
+      "entropy_score": 0.96,
+      "story_id": "36e7a345",
+      "turn": 24
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->桌上的咖啡已经凉透，杯沿留下淡淡的褐色印记。",
+      "flow_score": 0.625,
+      "entropy_score": 0.76,
+      "story_id": "36e7a345",
+      "turn": 25
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->他深吸一口气，终于按下了那个犹豫许久的回车键。",
+      "flow_score": 0.6375,
+      "entropy_score": 0.82,
+      "story_id": "36e7a345",
+      "turn": 26
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->屏幕上的代码开始滚动，发出微弱的蓝色荧光。",
+      "flow_score": 0.6125,
+      "entropy_score": 0.76,
+      "story_id": "36e7a345",
+      "turn": 27
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->这串数字对他来说不仅是任务，更是一段未完成的承诺。",
+      "flow_score": 0.6625,
+      "entropy_score": 0.84,
+      "story_id": "36e7a345",
+      "turn": 28
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->雨声渐大，仿佛在催促着什么，又像是在掩盖什么。",
+      "flow_score": 0.6375,
+      "entropy_score": 0.74,
+      "story_id": "36e7a345",
+      "turn": 29
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->他瞥见窗玻璃上自己的倒影，眼神里藏着说不清的疲惫。",
+      "flow_score": 0.6625,
+      "entropy_score": 0.84,
+      "story_id": "36e7a345",
+      "turn": 30
+    },
+    {
+      "author": "ai",
+      "text": "（mock stream fallback）111 ->但手指依然坚定地继续敲击，每一个字符都带着沉甸甸的重量。",
+      "flow_score": 0.7,
+      "entropy_score": 0.9,
+      "story_id": "36e7a345",
+      "turn": 31
+    }
   ]
 }

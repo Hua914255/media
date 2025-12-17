@@ -1692,5 +1692,359 @@
       "story_id": "3a6b64ee",
       "turn": 88
     }
+  ],
+  "52342863": [
+    {
+      "author": "human",
+      "text": "你好",
+      "flow_score": 0.025,
+      "entropy_score": 0.04,
+      "story_id": "52342863",
+      "turn": 1
+    },
+    {
+      "author": "ai",
+      "text": "你站在晨光熹微的街道上，手里攥着那张皱巴巴的地图。",
+      "flow_score": 0.3125,
+      "entropy_score": 0.46,
+      "story_id": "52342863",
+      "turn": 2
+    },
+    {
+      "author": "ai",
+      "text": "昨夜突如其来的暴雨打湿了纸张边缘，墨迹有些晕染开来。",
+      "flow_score": 0.325,
+      "entropy_score": 0.5,
+      "story_id": "52342863",
+      "turn": 3
+    },
+    {
+      "author": "ai",
+      "text": "你决定先去街角的咖啡馆避避雨，顺便理清接下来的路线。",
+      "flow_score": 0.325,
+      "entropy_score": 0.48,
+      "story_id": "52342863",
+      "turn": 4
+    },
+    {
+      "author": "ai",
+      "text": "推开店门时，风铃发出清脆的声响，暖意混合着咖啡香扑面而来。",
+      "flow_score": 0.3625,
+      "entropy_score": 0.56,
+      "story_id": "52342863",
+      "turn": 5
+    },
+    {
+      "author": "ai",
+      "text": "靠窗的位置空着，你放下背包时注意到桌角刻着模糊的字母。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.5,
+      "story_id": "52342863",
+      "turn": 6
+    },
+    {
+      "author": "ai",
+      "text": "服务生端来热水时，你询问他是否熟悉地图上标记的老书店。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.54,
+      "story_id": "52342863",
+      "turn": 7
+    },
+    {
+      "author": "ai",
+      "text": "他擦拭杯子的动作顿了顿，眼神里闪过一丝犹豫。",
+      "flow_score": 0.275,
+      "entropy_score": 0.42,
+      "story_id": "52342863",
+      "turn": 8
+    },
+    {
+      "author": "ai",
+      "text": "窗外又飘起细雨，在玻璃上划出蜿蜒的水痕。",
+      "flow_score": 0.25,
+      "entropy_score": 0.4,
+      "story_id": "52342863",
+      "turn": 9
+    },
+    {
+      "author": "ai",
+      "text": "他压低声音说那家书店三年前就关门了，但偶尔还能看见灯光在深夜亮起。",
+      "flow_score": 0.4125,
+      "entropy_score": 0.66,
+      "story_id": "52342863",
+      "turn": 10
+    },
+    {
+      "author": "ai",
+      "text": "你谢过他后望向窗外，发现对面巷口有个模糊的人影正朝这边张望。",
+      "flow_score": 0.375,
+      "entropy_score": 0.58,
+      "story_id": "52342863",
+      "turn": 11
+    },
+    {
+      "author": "human",
+      "text": "你好奇的去仔细看，但是发现那里又什么都没有",
+      "flow_score": 0.2625,
+      "entropy_score": 0.42,
+      "story_id": "52342863",
+      "turn": 12
+    },
+    {
+      "author": "ai",
+      "text": "你揉了揉眼睛，怀疑是不是雨水模糊了视线。",
+      "flow_score": 0.25,
+      "entropy_score": 0.34,
+      "story_id": "52342863",
+      "turn": 13
+    },
+    {
+      "author": "ai",
+      "text": "咖啡馆的玻璃窗上雾气渐浓，你用手掌擦出一小片清晰区域。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.54,
+      "story_id": "52342863",
+      "turn": 14
+    },
+    {
+      "author": "ai",
+      "text": "服务生已经转身去招呼其他客人，留下你独自沉思。",
+      "flow_score": 0.2875,
+      "entropy_score": 0.46,
+      "story_id": "52342863",
+      "turn": 15
+    },
+    {
+      "author": "ai",
+      "text": "你决定先喝完这杯热水，再考虑下一步行动。",
+      "flow_score": 0.25,
+      "entropy_score": 0.4,
+      "story_id": "52342863",
+      "turn": 16
+    },
+    {
+      "author": "ai",
+      "text": "背包侧袋里的笔记本被雨水浸湿了一角，你小心地翻开检查。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.54,
+      "story_id": "52342863",
+      "turn": 17
+    },
+    {
+      "author": "ai",
+      "text": "就在这时，风铃再次响起，一个披着深色雨衣的人匆匆推门而入。",
+      "flow_score": 0.3625,
+      "entropy_score": 0.54,
+      "story_id": "52342863",
+      "turn": 18
+    },
+    {
+      "author": "ai",
+      "text": "那人径直走向吧台，点了杯黑咖啡后便沉默地站着。",
+      "flow_score": 0.2875,
+      "entropy_score": 0.46,
+      "story_id": "52342863",
+      "turn": 19
+    },
+    {
+      "author": "ai",
+      "text": "你注意到他雨衣下摆沾着新鲜的泥点，像是刚从巷子里出来。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.54,
+      "story_id": "52342863",
+      "turn": 20
+    },
+    {
+      "author": "ai",
+      "text": "当服务生递过咖啡时，他们的手指短暂触碰了一下。",
+      "flow_score": 0.2875,
+      "entropy_score": 0.46,
+      "story_id": "52342863",
+      "turn": 21
+    },
+    {
+      "author": "ai",
+      "text": "你隐约看见有张折叠的纸条被顺势传递了过去。",
+      "flow_score": 0.2625,
+      "entropy_score": 0.42,
+      "story_id": "52342863",
+      "turn": 22
+    },
+    {
+      "author": "human",
+      "text": "你很紧张，感觉好像看见了什么不得了的事情",
+      "flow_score": 0.25,
+      "entropy_score": 0.38,
+      "story_id": "52342863",
+      "turn": 23
+    },
+    {
+      "author": "ai",
+      "text": "你下意识地低下头假装翻看笔记本，心跳却不由自主地加快。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.5,
+      "story_id": "52342863",
+      "turn": 24
+    },
+    {
+      "author": "ai",
+      "text": "雨衣人接过咖啡后并没有立即离开，而是转身环顾整个咖啡馆。",
+      "flow_score": 0.35,
+      "entropy_score": 0.52,
+      "story_id": "52342863",
+      "turn": 25
+    },
+    {
+      "author": "ai",
+      "text": "你感觉到他的目光在你身上停留了片刻，手指不自觉地捏紧了笔记本边缘。",
+      "flow_score": 0.4125,
+      "entropy_score": 0.6,
+      "story_id": "52342863",
+      "turn": 26
+    },
+    {
+      "author": "ai",
+      "text": "窗外的雨声突然变得清晰起来，每滴雨点都敲打着紧绷的神经。",
+      "flow_score": 0.35,
+      "entropy_score": 0.52,
+      "story_id": "52342863",
+      "turn": 27
+    },
+    {
+      "author": "ai",
+      "text": "雨衣人最终选择在离你三张桌子远的角落坐下，背对着门口的方向。",
+      "flow_score": 0.375,
+      "entropy_score": 0.58,
+      "story_id": "52342863",
+      "turn": 28
+    },
+    {
+      "author": "ai",
+      "text": "你注意到他坐下时雨衣发出轻微的摩擦声，像是藏着什么东西。",
+      "flow_score": 0.35,
+      "entropy_score": 0.56,
+      "story_id": "52342863",
+      "turn": 29
+    },
+    {
+      "author": "ai",
+      "text": "服务生此时回到后厨，留下空荡荡的前厅只有你们两人。",
+      "flow_score": 0.3125,
+      "entropy_score": 0.48,
+      "story_id": "52342863",
+      "turn": 30
+    },
+    {
+      "author": "ai",
+      "text": "你假装专注地看着地图，余光却始终留意着那个角落的动静。",
+      "flow_score": 0.3375,
+      "entropy_score": 0.5,
+      "story_id": "52342863",
+      "turn": 31
+    },
+    {
+      "author": "ai",
+      "text": "雨衣人从怀里取出一个牛皮纸袋，动作谨慎地放在桌面上。",
+      "flow_score": 0.325,
+      "entropy_score": 0.52,
+      "story_id": "52342863",
+      "turn": 32
+    },
+    {
+      "author": "ai",
+      "text": "正当你犹豫是否该离开时，咖啡馆的门再次被推开了。",
+      "flow_score": 0.3,
+      "entropy_score": 0.46,
+      "story_id": "52342863",
+      "turn": 33
+    },
+    {
+      "author": "human",
+      "text": "迎面遇上了前面那个男人。你愣在那里，很害怕",
+      "flow_score": 0.2625,
+      "entropy_score": 0.38,
+      "story_id": "52342863",
+      "turn": 34
+    },
+    {
+      "author": "ai",
+      "text": "你僵在原地，手中的笔记本差点滑落。",
+      "flow_score": 0.2125,
+      "entropy_score": 0.34,
+      "story_id": "52342863",
+      "turn": 35
+    },
+    {
+      "author": "ai",
+      "text": "那个男人站在门口，雨水顺着他的风衣下摆滴落在地板上。",
+      "flow_score": 0.325,
+      "entropy_score": 0.5,
+      "story_id": "52342863",
+      "turn": 36
+    },
+    {
+      "author": "ai",
+      "text": "他的目光越过你，直直投向角落里的雨衣人。",
+      "flow_score": 0.25,
+      "entropy_score": 0.36,
+      "story_id": "52342863",
+      "turn": 37
+    },
+    {
+      "author": "ai",
+      "text": "雨衣人缓缓站起身，牛皮纸袋被迅速收进怀里。",
+      "flow_score": 0.2625,
+      "entropy_score": 0.4,
+      "story_id": "52342863",
+      "turn": 38
+    },
+    {
+      "author": "ai",
+      "text": "服务生从后厨探出头来，看到这一幕又立刻缩了回去。",
+      "flow_score": 0.3,
+      "entropy_score": 0.48,
+      "story_id": "52342863",
+      "turn": 39
+    },
+    {
+      "author": "ai",
+      "text": "男人一步步走进咖啡馆，靴子在地板上发出沉重的声响。",
+      "flow_score": 0.3125,
+      "entropy_score": 0.48,
+      "story_id": "52342863",
+      "turn": 40
+    },
+    {
+      "author": "ai",
+      "text": "你本能地后退，后背抵住了冰冷的玻璃窗。",
+      "flow_score": 0.2375,
+      "entropy_score": 0.36,
+      "story_id": "52342863",
+      "turn": 41
+    },
+    {
+      "author": "ai",
+      "text": "雨衣人突然转身冲向后厨方向，动作快得惊人。",
+      "flow_score": 0.2625,
+      "entropy_score": 0.38,
+      "story_id": "52342863",
+      "turn": 42
+    },
+    {
+      "author": "ai",
+      "text": "男人见状立即追了上去，带倒了沿途的椅子。",
+      "flow_score": 0.25,
+      "entropy_score": 0.38,
+      "story_id": "52342863",
+      "turn": 43
+    },
+    {
+      "author": "ai",
+      "text": "你听见后门被撞开的巨响，随后一切又归于寂静。",
+      "flow_score": 0.275,
+      "entropy_score": 0.42,
+      "story_id": "52342863",
+      "turn": 44
+    }
   ]
 }

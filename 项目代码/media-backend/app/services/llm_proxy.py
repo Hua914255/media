@@ -11,7 +11,7 @@ from app.services.storage import get_story_turns
 
 # ====== Config ======
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-d682fc31d5384164815df97a90cf8cee")  # ✅ 不要写死在代码里
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")  # ✅ 不要写死在代码里
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")  # 或 deepseek-reasoner
 
 
